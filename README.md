@@ -4,7 +4,7 @@ docker-cassandra-mesos-build
 Simple Dockerfile to build cassandra-mesos for CentOS 6.x
 
 
-# Instruction
+# Instructions
 ```sh
 git clone https://github.com/sheepkiller/docker-cassandra-mesos-build.git
 cd https://github.com/sheepkiller/docker-cassandra-mesos-build
